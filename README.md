@@ -1,4 +1,4 @@
-# EXP8 - Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+# EXP10 - Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
